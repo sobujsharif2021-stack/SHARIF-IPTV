@@ -1,0 +1,434 @@
+[
+  {
+    "id": "1",
+    "title": "ABC 7 Bay",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89",
+    "streamUrl": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "2",
+    "title": "ABC News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",
+    "streamUrl": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e0b0272fc50046b43a28cf225618867e",
+    "isLive": true
+  },
+  {
+    "id": "3",
+    "title": "BTV News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a",
+    "streamUrl": "https://tvsen6.aynaott.com/BTVNews/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a647eb688c6482997cb616dda52e5b3c",
+    "isLive": true
+  },
+  {
+    "id": "4",
+    "title": "BEK TV News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2",
+    "streamUrl": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "5",
+    "title": "Somoy News TV",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60",
+    "streamUrl": "https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=793d244fab1faf38edb8ff8b1dbdedac",
+    "isLive": true
+  },
+  {
+    "id": "6",
+    "title": "Channel 24",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55",
+    "streamUrl": "https://tvsen6.aynaott.com/channel24/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=28dcda4fca32168a66fc03d898454095",
+    "isLive": true
+  },
+  {
+    "id": "7",
+    "title": "ATN News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/8a3c5215dc0b943dc0a80333c0ab21ce",
+    "streamUrl": "https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a190ad8f0f42e4b7e8be6fb18718cbe5",
+    "isLive": true
+  },
+  {
+    "id": "8",
+    "title": "Independent TV",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697",
+    "streamUrl": "https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1780012644&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d3bf4d7d269e555603a4ed200507a15d",
+    "isLive": true
+  },
+  {
+    "id": "9",
+    "title": "DBC News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545",
+    "streamUrl": "https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a1998687399008af8df455e09621bba2",
+    "isLive": true
+  },
+  {
+    "id": "10",
+    "title": "BBC News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/7a20437e5660324c20cf8251ccb7a697",
+    "streamUrl": "https://tvsen6.aynaott.com/bbcnews/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4b065698e13ebe7b229b2aebc74a00b9",
+    "isLive": true
+  },
+  {
+    "id": "11",
+    "title": "Ekhon TV",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",
+    "streamUrl": "https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=41de0c73d17b6e070e46f8f28451692c",
+    "isLive": true
+  },
+  {
+    "id": "12",
+    "title": "News 24 BD",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b",
+    "streamUrl": "https://tvsen6.aynaott.com/news24/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e34c92eeb5b49b873fad45f2083c19d",
+    "isLive": true
+  },
+  {
+    "id": "13",
+    "title": "Ekattor TV",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7",
+    "streamUrl": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc317f8229248bcc4b5856c2e11e5c6f",
+    "isLive": true
+  },
+  {
+    "id": "14",
+    "title": "Jamuna TV",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8",
+    "streamUrl": "https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=131c2dd0f5e7dd009c2088c975cb0735",
+    "isLive": true
+  },
+  {
+    "id": "15",
+    "title": "CNN",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",
+    "streamUrl": "https://tvsen6.aynaott.com/cnn/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a502bb88e5fd3995a45b5fc9a23a7f92",
+    "isLive": true
+  },
+  {
+    "id": "16",
+    "title": "AlJazeera",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf",
+    "streamUrl": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "17",
+    "title": "DW News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5",
+    "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "18",
+    "title": "NHK World",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549",
+    "streamUrl": "https://tvsen6.aynaott.com/nhkworld/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3e10077e3b71d2271eef68149d36cff6",
+    "isLive": true
+  },
+  {
+    "id": "19",
+    "title": "Wion",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2",
+    "streamUrl": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "20",
+    "title": "ANB News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/4ec06dcab54cbbf5b204f797555e6b31",
+    "streamUrl": "https://tvsen6.aynaott.com/ANB_News/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=487590a85e09b732c9ab79d6c528f1f1",
+    "isLive": true
+  },
+  {
+    "id": "21",
+    "title": "News 1 India",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/c643b3f7d7f79ad3913b5d2037f13a88",
+    "streamUrl": "https://tvsen6.aynaott.com/News1India/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5afb6f5506f2e3670d39c7481a890ae2",
+    "isLive": true
+  },
+  {
+    "id": "22",
+    "title": "Sadhna Prime News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",
+    "streamUrl": "https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=08021ab6d404177a5df943b61d576c18",
+    "isLive": true
+  },
+  {
+    "id": "23",
+    "title": "TV9 Bangla",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "24",
+    "title": "TRT World",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/f63d4aad95532175f7f44be439f74111",
+    "streamUrl": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "25",
+    "title": "Star News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/b3564688d9964a0da7cee6174fda39ef",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "26",
+    "title": "Sky News",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",
+    "streamUrl": "https://tvsen5.aynaott.com/skynews/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fb2ef8b5a516a0d6f88594edd8d88c10",
+    "isLive": true
+  },
+  {
+    "id": "27",
+    "title": "Hindi Khabar",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",
+    "streamUrl": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1780012645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=752cb8472085f0ea82cf827ca26647e4",
+    "isLive": true
+  },
+  {
+    "id": "28",
+    "title": "News Nation",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0",
+    "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "29",
+    "title": "India Today",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/49b496bca6d7c67d53431e9238f83397",
+    "streamUrl": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "30",
+    "title": "OAN",
+    "category": "news",
+    "thumbnail": "https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d",
+    "streamUrl": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "31",
+    "title": "--- [ NEWS PROMOTION ] ---",
+    "category": "news",
+    "thumbnail": "https://bdixiptvbd.com/logo.png",
+    "streamUrl": "https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4",
+    "isLive": true
+  },
+  {
+    "id": "32",
+    "title": "ABP Ananda (1080p)",
+    "category": "news",
+    "thumbnail": "https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "33",
+    "title": "AKD Calcutta News (1080p)",
+    "category": "news",
+    "thumbnail": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png",
+    "streamUrl": "https://live.legitpro.co.in/cnnnews/index.m3u8",
+    "isLive": true
+  },
+  {
+    "id": "34",
+    "title": "Ananda Barta (720p)",
+    "category": "news",
+    "thumbnail": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png",
+    "streamUrl": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
+    "isLive": true
+  },
+  {
+    "thumbnail": "https://i.imgur.com/4qZQKjo.png",
+    "category": "news",
+    "title": "ATN News (1080p)",
+    "streamUrl": "https://bozztv.com/rongo/rongo-ATNNews/index.m3u8",
+    "isLive": true,
+    "id": "35"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/4JLkaF7.png",
+    "category": "news",
+    "title": "Channel 24 (1080p)",
+    "streamUrl": "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8",
+    "isLive": true,
+    "id": "36"
+  },
+  {
+    "thumbnail": "https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540",
+    "category": "news",
+    "title": "CTVN AKD Plus (1080p)",
+    "streamUrl": "https://live.legitpro.co.in/ctvnakdplus/index.m3u8",
+    "isLive": true,
+    "id": "37"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/Qbt6q4z.png",
+    "category": "news",
+    "title": "DBC News (480p)",
+    "streamUrl": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+    "isLive": true,
+    "id": "38"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/ItrZok1.png",
+    "category": "news",
+    "title": "Desh TV (1080p)",
+    "streamUrl": "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8",
+    "isLive": true,
+    "id": "39"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/lRpkGHj.png",
+    "category": "news",
+    "title": "Ekushey TV (480p)",
+    "streamUrl": "https://ekusheyserver.com/etvlivesn.m3u8",
+    "isLive": true,
+    "id": "40"
+  },
+  {
+    "thumbnail": "https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png",
+    "category": "news",
+    "title": "High News (480p)",
+    "streamUrl": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+    "isLive": true,
+    "id": "41"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/POXFhGN.png",
+    "category": "news",
+    "title": "Independent TV (1080p)",
+    "streamUrl": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8",
+    "isLive": true,
+    "id": "42"
+  },
+  {
+    "thumbnail": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
+    "category": "news",
+    "title": "Jamuna TV (1080p)",
+    "streamUrl": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
+    "isLive": true,
+    "id": "43"
+  },
+  {
+    "thumbnail": "https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540",
+    "category": "news",
+    "title": "Kolkata TV (1080p)",
+    "streamUrl": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+    "isLive": true,
+    "id": "44"
+  },
+  {
+    "thumbnail": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png",
+    "category": "news",
+    "title": "News18 Bangla (1080p)",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8",
+    "isLive": true,
+    "id": "45"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/fkTHh75.png",
+    "category": "news",
+    "title": "News 24 (1080p)",
+    "streamUrl": "https://bozztv.com/rongo/rongo-News24HD/index.m3u8",
+    "isLive": true,
+    "id": "46"
+  },
+  {
+    "thumbnail": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TIME_BANGLA/images/LOGO_HD/image.png",
+    "category": "news",
+    "title": "NewsTime Bangla (576p)",
+    "streamUrl": "https://cdn-2.pishow.tv/live/1494/master.m3u8",
+    "isLive": true,
+    "id": "47"
+  },
+  {
+    "thumbnail": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
+    "category": "news",
+    "title": "NK TV Bangla (1080p)",
+    "streamUrl": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
+    "isLive": true,
+    "id": "48"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/wu7aQRg.png",
+    "category": "news",
+    "title": "Onkar Only Truth TV (576p)",
+    "streamUrl": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8",
+    "isLive": true,
+    "id": "49"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/7oTsfQ4.png",
+    "category": "news",
+    "title": "Probashi TV News (1080p)",
+    "streamUrl": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+    "isLive": true,
+    "id": "50"
+  },
+  {
+    "thumbnail": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA/images/LOGO_HD/image.png",
+    "category": "news",
+    "title": "Republic Bangla (1080p)",
+    "streamUrl": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8",
+    "isLive": true,
+    "id": "51"
+  },
+  {
+    "thumbnail": "https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png",
+    "category": "news",
+    "title": "Samay Kolkata (1080p)",
+    "streamUrl": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
+    "isLive": true,
+    "id": "52"
+  },
+  {
+    "thumbnail": "https://i.imgur.com/i54AQic.png",
+    "category": "news",
+    "title": "Somoy News TV (1080p)",
+    "streamUrl": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
+    "isLive": true,
+    "id": "53"
+  },
+  {
+    "thumbnail": "https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540",
+    "category": "news",
+    "title": "Zee 24 Ghanta (576p)",
+    "streamUrl": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8",
+    "isLive": true,
+    "id": "54"
+  }
+]

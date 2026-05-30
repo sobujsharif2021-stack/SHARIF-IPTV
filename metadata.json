@@ -1,0 +1,6 @@
+{
+  "name": "Entertainment Hub",
+  "description": "A modern personal entertainment website for live sports, news, and movies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
