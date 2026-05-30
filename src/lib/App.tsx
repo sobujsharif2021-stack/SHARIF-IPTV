@@ -15,7 +15,11 @@ export default function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [showFavorites, setShowFavorites] = useState(false);
   const [favorites, setFavorites] = useState<string[]>(() => {
-    return JSON.parse(localStorage.getItem('favorites') || '[]');
+    try {
+      return JSON.parse(localStorage.getItem('favorites') || '[]');
+    } catch (e) {
+      return [];
+    }
   });
 
   const toggleFavorite = (e: React.MouseEvent, id: string) => {

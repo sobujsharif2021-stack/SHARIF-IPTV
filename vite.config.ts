@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './', // Use relative paths for assets so Github Pages loads correctly on /REPO_NAME/
+    base: '/SHARIF-IPTV/', // Set base to the exact GitHub repo name to prevent 404s on assets
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
