@@ -1,13 +1,10 @@
-import {StrictMode, Component, ReactNode} from 'react';
+import React, {StrictMode, ReactNode} from 'react';
 import {createRoot} from 'react-dom/client';
 import App from './lib/App.tsx';
 import './index.css';
 
-class ErrorBoundary extends Component<{children: ReactNode}, {hasError: boolean, error: Error | null}> {
-  constructor(props: {children: ReactNode}) {
-    super(props);
-    this.state = { hasError: false, error: null };
-  }
+class ErrorBoundary extends React.Component<any, any> {
+  state = { hasError: false, error: null };
 
   static getDerivedStateFromError(error: Error) {
     return { hasError: true, error };
@@ -18,15 +15,15 @@ class ErrorBoundary extends Component<{children: ReactNode}, {hasError: boolean,
   }
 
   render() {
-    if (this.state.hasError) {
+    if ((this as any).state.hasError) {
       return (
         <div style={{ padding: '20px', color: 'white', backgroundColor: 'black', minHeight: '100vh' }}>
           <h1>Error loading data</h1>
-          <pre>{this.state.error?.toString()}</pre>
+          <pre>{(this as any).state.error?.toString()}</pre>
         </div>
       );
     }
-    return this.props.children;
+    return (this as any).props.children;
   }
 }
 
