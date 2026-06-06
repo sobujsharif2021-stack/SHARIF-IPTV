@@ -1,16 +1,27 @@
 import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
+import legacy from '@vitejs/plugin-legacy';
 import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
     base: '/SHARIF-IPTV/', // Set base to the exact GitHub repo name to prevent 404s on assets
-    plugins: [react(), tailwindcss()],
+    plugins: [
+      react(), 
+      tailwindcss(),
+      legacy({
+        targets: ['defaults', 'not IE 11', 'Chrome >= 49', 'Safari >= 10'],
+      }),
+    ],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
       },
+    },
+    build: {
+      target: 'es2015',
+      cssTarget: 'chrome49', // Older TVs use old Chromium
     },
     server: {
       // HMR is disabled in AI Studio via DISABLE_HMR env var.

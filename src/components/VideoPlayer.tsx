@@ -61,7 +61,13 @@ export default function VideoPlayer({ item }: { item: MediaItem }) {
   return (
     <div className="w-full bg-slate-950 rounded-2xl overflow-hidden border border-slate-800">
       {item.streamUrl ? (
-        <video ref={videoRef} controls className="w-full aspect-video" />
+        <video 
+          ref={videoRef} 
+          controls 
+          className="w-full aspect-video" 
+          crossOrigin="anonymous"
+          playsInline
+        />
       ) : (
         <div className="w-full aspect-video flex items-center justify-center text-slate-500">
           Invalid or missing stream URL
