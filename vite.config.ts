@@ -12,6 +12,8 @@ export default defineConfig(() => {
       tailwindcss(),
       legacy({
         targets: ['defaults', 'not IE 11', 'Chrome >= 49', 'Safari >= 10'],
+        renderModernPolyfills: true,
+        polyfills: true,
       }),
     ],
     resolve: {
@@ -22,6 +24,12 @@ export default defineConfig(() => {
     build: {
       target: 'es2015',
       cssTarget: 'chrome49', // Older TVs use old Chromium
+      minify: 'terser',
+      terserOptions: {
+        compress: {
+          keep_fnames: true,
+        },
+      },
     },
     server: {
       // HMR is disabled in AI Studio via DISABLE_HMR env var.
